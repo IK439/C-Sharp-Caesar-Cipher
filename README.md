@@ -14,3 +14,12 @@ The program:
 2. The user enters a shift key (number).
 3. The user enters a message.
 4. The program shifts each letter by the given key and displays the result.
+
+## How to Run
+
+1. Make sure you have [.NET SDK](https://dotnet.microsoft.com/download) installed.
+2. Create a new console project or use this code in an existing one.
+3. Build and run the project:
+
+```bash
+dotnet run
